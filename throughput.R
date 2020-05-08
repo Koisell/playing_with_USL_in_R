@@ -133,7 +133,3 @@ summary(usl.model)
 peak.scalability(usl.model)
 plot(benchmark, pch=16)
 plot(usl.model, col="red", add=TRUE)
-
-# Modeling response time
-# little_law_response_time <- number_of_worker / thoughput
-# To be continue
